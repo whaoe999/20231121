@@ -18,7 +18,7 @@ int main()
 printf("hello world\n");
 return 0;
 }
-
+```
 * 四阶段
   * github
   * markdown
@@ -27,6 +27,6 @@ return 0;
    2. 数据库
    3. linux
 |名称|电话号|班级|
---：|：--：|：--
+--:|:--:|:--
 |张三|123|9|
 
